@@ -1,0 +1,31 @@
+Senior Backend Engineer
+Acme Payments — Bengaluru (Hybrid)
+
+About us
+Acme Payments builds payment infrastructure for over 20,000 merchants across India.
+
+What you'll do
+• Design, build and operate scalable microservices in Python and Go that process millions of transactions per day
+• Own RESTful APIs and event-driven integrations using Kafka
+• Improve reliability and observability of payment systems with Prometheus and Grafana
+• Collaborate with product managers and cross-functional teams to ship features end-to-end
+• Mentor junior engineers and lead code reviews
+• Optimize PostgreSQL queries and data models for high-throughput workloads
+
+Requirements
+• 5+ years of experience in backend development
+• Strong proficiency in Python (Django or FastAPI)
+• Experience with PostgreSQL, Redis and message queues such as Kafka or RabbitMQ
+• Hands-on experience with AWS, Docker and Kubernetes
+• Solid understanding of distributed systems, system design and payment systems
+• Experience with CI/CD pipelines and automated testing
+• Excellent communication and problem-solving skills
+• Bachelor's degree in Computer Science or equivalent
+
+Nice to have
+• Experience with Go or Rust
+• Familiarity with PCI DSS compliance
+• Exposure to Terraform and infrastructure as code
+
+Benefits
+• Competitive salary, health insurance, flexible work hours

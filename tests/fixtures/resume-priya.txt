@@ -1,0 +1,42 @@
+PRIYA SHARMA
+Backend Software Engineer
+Bengaluru, India | priya.sharma@example.com | +91 98450 12345 | linkedin.com/in/priyasharma | github.com/priyasharma
+
+SUMMARY
+Backend engineer who builds reliable APIs and data services for fintech products.
+
+EXPERIENCE
+Software Engineer II | Finlytics Technologies Pvt Ltd | Bengaluru, India
+Jan 2021 – Present
+• Responsible for developing payment reconciliation microservices in Python and Django
+• Worked on migrating the ledger database from MySQL to PostgreSQL, reducing query latency by 35%
+• Built event-driven integrations with Kafka processing 2M+ events per day
+• Helped improve CI/CD pipelines using GitHub Actions and Docker
+• Mentored 3 junior engineers and did code reviews
+
+Software Engineer, Quickcart Solutions — Pune
+Jul 2018 - Dec 2020
+- Developing REST APIs for the order management system using Flask
+- Responsible for the maintenance of Redis caching layer that cut page load time by 40%
+- Participated in on-call rotation and incident reviews
+Tech: Python, Flask, Redis, AWS EC2, Jenkins
+
+EDUCATION
+B.Tech in Computer Science, Vellore Institute of Technology, Vellore
+2014 - 2018 | CGPA: 8.6/10
+
+SKILLS
+Languages: Python, Java, SQL
+Frameworks: Django, Flask, FastAPI
+Tools: Docker, Git, Jenkins, Kafka, Redis
+Cloud: AWS (EC2, S3, Lambda)
+
+PROJECTS
+Expense Splitter | Python, FastAPI, PostgreSQL | github.com/priyasharma/splitter
+- Built an open-source expense splitting API used by 500+ users
+
+CERTIFICATIONS
+AWS Certified Developer – Associate, Amazon Web Services, 2022
+
+ACHIEVEMENTS
+Winner, Finlytics internal hackathon 2022

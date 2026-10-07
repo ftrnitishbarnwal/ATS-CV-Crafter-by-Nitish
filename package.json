@@ -1,0 +1,39 @@
+{
+  "name": "tailorcv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI resume builder that tailors an ATS-friendly resume to a target job description.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "NODE_ENV=production node dist/server.mjs",
+    "dev": "node scripts/build.mjs --watch & tsx watch server/index.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --import tsx --test tests/unit/*.test.ts",
+    "test:e2e": "node tests/e2e/run.mjs"
+  },
+  "dependencies": {
+    "docx": "9.6.1",
+    "jszip": "3.10.1",
+    "pdf-lib": "1.17.1",
+    "pdfjs-dist": "5.7.284",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "react-icons": "5.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "esbuild": "0.27.7",
+    "playwright": "1.56.0",
+    "tsx": "4.21.0",
+    "typescript": "^5.6.0"
+  },
+  "allowScripts": {
+    "esbuild@0.27.7": true
+  }
+}

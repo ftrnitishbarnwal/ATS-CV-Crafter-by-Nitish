@@ -1,0 +1,24 @@
+Data Analyst – Growth Analytics
+Company: Kartly (e-commerce), Pune / Hybrid
+
+About the role
+We are looking for a Data Analyst to help our growth and marketing teams make better decisions with data.
+
+Responsibilities
+- Build and maintain dashboards in Tableau or Power BI to track funnel and retention KPIs
+- Write complex SQL queries against our PostgreSQL and BigQuery warehouses
+- Analyze A/B tests and experiments and communicate results to product and marketing stakeholders
+- Automate recurring reports using Python (Pandas)
+- Partner with data engineering to improve data quality and data modeling
+
+Requirements
+- 3+ years of experience in data analysis, preferably in e-commerce or retail
+- Strong SQL and Python skills
+- Experience with Tableau or Power BI
+- Solid understanding of statistics and A/B testing
+- Excellent communication and stakeholder management skills
+- Bachelor's degree in Statistics, Mathematics, Computer Science or a related field
+
+Nice to have
+- Experience with BigQuery or Snowflake
+- Familiarity with dbt and Airflow
